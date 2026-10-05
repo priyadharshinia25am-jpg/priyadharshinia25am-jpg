@@ -87,9 +87,6 @@ Application for tracking and managing expenses.
 
 <p align="center">
 
-<a href="https://github.com/priyadharshinia25am-jpg/team_sync">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyadharshinia25am-jpg&repo=team_sync&theme=radical&hide_border=true" />
-</a>
 
 <a href="https://github.com/priyadharshinia25am-jpg/expense_tracker">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyadharshinia25am-jpg&repo=expense_tracker&theme=radical&hide_border=true" />
