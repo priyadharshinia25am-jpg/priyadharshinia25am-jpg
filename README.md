@@ -1,105 +1,102 @@
 # 👋 Hi, I'm Priyadharshini
 
-### 💻 Computer Science Engineering Student | AI & ML Enthusiast
+### 💻 CSE (AI & ML) Student | AI/ML Enthusiast | Developer
 
-I’m a 2nd-year engineering student interested in **Artificial Intelligence, Machine Learning, Full-Stack Development, and Cloud Technologies**.
+I am a 2nd-year engineering student interested in Artificial Intelligence,
+Machine Learning, Full-Stack Development and Cloud Technologies.
 
-I enjoy building practical projects that solve real-world problems and learning new technologies by actually building things.
+I enjoy building practical projects and learning by developing real-world solutions.
 
 ---
 
 ## 🚀 What I'm Working On
 
-🔹 **AI-Powered Industrial Approval & Compliance Assistant**
-Helping entrepreneurs understand government approvals, documents, departments, and compliance requirements.
-
-🔹 **StudyFlow AI**
-An intelligent study-planning platform designed to help students organize their subjects, schedules, and learning progress.
-
-🔹 **Expense Tracker**
-A simple application for managing and tracking personal expenses.
-
-🔹 **LeetCode Practice**
-Regularly practicing programming and problem-solving.
+- 🤖 AI-powered applications
+- 🌐 Full-Stack Web Development
+- 📊 Data Science & Machine Learning
+- 🏭 AI-Powered Industrial Approval & Compliance Assistant
+- 📚 StudyFlow AI
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+**Languages**
 
 `C` `C++` `Python` `Java` `SQL`
 
-### Web Development
+**Web**
 
 `HTML` `CSS` `JavaScript`
 
-### AI / ML
+**AI / ML**
 
-`Python` `Machine Learning` `Data Analysis` `RAG` `LLM`
+`Python` `Machine Learning` `Data Analysis` `RAG`
 
-### Tools & Platforms
+**Tools**
 
 `Git` `GitHub` `VS Code` `Google Colab` `MySQL` `Power BI`
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-| Project                | Description                                           |
-| ---------------------- | ----------------------------------------------------- |
-| 🏭 **Team Sync**       | AI-powered industrial approval & compliance assistant |
-| 📚 **StudyFlow AI**    | Intelligent AI-based study planner                    |
-| 💰 **Expense Tracker** | Personal expense management application               |
-| 🧠 **LeetCode Learn**  | Collection of coding and interview practice           |
+### 🏭 Team Sync
+AI-powered Industrial Approval & Compliance Assistant.
 
----
+### 📚 StudyFlow AI
+AI-based intelligent study planning platform.
 
-## 🎯 Current Goals
-
-* 🧠 Improve my problem-solving skills
-* 🤖 Build practical AI/ML projects
-* 🌐 Become stronger in full-stack development
-* ☁️ Learn cloud technologies
-* 💼 Prepare for internships
-* 🚀 Build projects that solve real-world problems
-
----
-
-## 📊 GitHub Journey
-
-```text
-Learning → Building → Breaking → Debugging → Improving → Building Again
-```
-
-I believe the best way to learn technology is to **build, make mistakes, fix them, and keep improving.**
+### 💰 Expense Tracker
+Application for tracking and managing expenses.
 
 ---
 
 ## 🌱 Currently Learning
 
-* Data Structures & Algorithms
-* Machine Learning
-* Full-Stack Development
-* Database Management
-* Cloud Computing
-* AI Agents & RAG
+- Data Structures & Algorithms
+- Machine Learning
+- Full-Stack Development
+- Cloud Computing
 
----
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
-I'm always interested in:
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyadharshinia25am-jpg&show_icons=true&theme=radical&hide_border=true" />
 
-💡 Interesting projects
-🤖 AI/ML ideas
-🚀 Hackathons
-💼 Internship opportunities
-👩‍💻 Collaboration
-📚 Learning new technologies
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshinia25am-jpg&layout=compact&theme=radical&hide_border=true" />
+</p>
+- AI Agents
 
----
+## 📊 GitHub Stats
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyadharshinia25am-jpg&show_icons=true&theme=radical&hide_border=true" />
 
-**Keep learning. Keep building. Keep improving. 🚀**
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshinia25am-jpg&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=priyadharshinia25am-jpg&theme=radical&hide_border=true" />
+</p>
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/priyadharshinia25am-jpg/team_sync">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyadharshinia25am-jpg&repo=team_sync&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/priyadharshinia25am-jpg/expense_tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyadharshinia25am-jpg&repo=expense_tracker&theme=radical&hide_border=true" />
+</a>
+
+</p>
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+
